@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    font-family: 'Roboto', "Times New Roman", sans-serif;
+}
+
+.textContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}
+
+#text {
+    font-size: 500%;
+}
