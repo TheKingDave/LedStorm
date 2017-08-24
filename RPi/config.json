@@ -1,0 +1,35 @@
+{
+    "clock_bg_color": [
+        0, 
+        0, 
+        0
+    ], 
+    "clock_brightness": 1, 
+    "clock_color": [
+        0, 
+        0, 
+        255
+    ], 
+    "color_mode": "start_end", 
+    "display_file": "display.json", 
+    "display_height": 8, 
+    "display_width": 25, 
+    "end_color": [
+        255, 
+        0, 
+        0
+    ], 
+    "led_bright": 255, 
+    "led_dma": 5, 
+    "led_freq": 800000, 
+    "led_invert": false, 
+    "led_pin": 18, 
+    "max_allowed_clients": 5, 
+    "power_switch_invert": true, 
+    "power_switch_pin": 23, 
+    "start_color": [
+        0, 
+        255, 
+        0
+    ]
+}
