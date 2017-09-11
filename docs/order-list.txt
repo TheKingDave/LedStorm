@@ -1,0 +1,5 @@
+- copper wire :: https://www.hornbach.at/shop/Kupferdraht-1-0-mm-7-m/4060829/artikel.html#artikeldetails
+- RGB-LEDs :: https://www.aliexpress.com/item/4M-60LED-M-WS2812-5050-SMD-WS2811-Built-in-Individually-Addressable-Dream-Color-RGB-LED-Strip/2031020491.html
+- Power Supply :: https://www.aliexpress.com/item/Free-shipping-output-DC-5V-10A-LED-Power-Supply-use-for-DC5V-WS2812B-LPD8806-WS2811-LED/32436161130.html
+- NodeMcu :: https://www.aliexpress.com/item/new-Wireless-module-CH340-NodeMcu-V3-Lua-WIFI-Internet-of-Things-development-board-based-ESP8266/32556303666.html
+- DC Jack :: https://www.aliexpress.com/item/Sindax-2-1mm-x-5-5mm-Female-DC-Jack-PCB-Charger-Power-Plug-15-Pcs/32681788963.html
